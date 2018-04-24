@@ -7,7 +7,6 @@
  */
 namespace App;
 
-
 class Controller {
 
     public $model;
